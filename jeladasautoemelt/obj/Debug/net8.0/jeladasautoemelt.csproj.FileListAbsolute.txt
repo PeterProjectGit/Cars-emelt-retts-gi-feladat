@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Antal Péter Dániel\C#\jeladasautoemelt\bin\Debug\net8.0\jeladasautoemelt.exe
+C:\Users\User\Documents\Antal Péter Dániel\C#\jeladasautoemelt\bin\Debug\net8.0\jeladasautoemelt.deps.json
+C:\Users\User\Documents\Antal Péter Dániel\C#\jeladasautoemelt\bin\Debug\net8.0\jeladasautoemelt.runtimeconfig.json
+C:\Users\User\Documents\Antal Péter Dániel\C#\jeladasautoemelt\bin\Debug\net8.0\jeladasautoemelt.dll
+C:\Users\User\Documents\Antal Péter Dániel\C#\jeladasautoemelt\bin\Debug\net8.0\jeladasautoemelt.pdb
+C:\Users\User\Documents\Antal Péter Dániel\C#\jeladasautoemelt\obj\Debug\net8.0\jeladasautoemelt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Antal Péter Dániel\C#\jeladasautoemelt\obj\Debug\net8.0\jeladasautoemelt.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Antal Péter Dániel\C#\jeladasautoemelt\obj\Debug\net8.0\jeladasautoemelt.AssemblyInfo.cs
+C:\Users\User\Documents\Antal Péter Dániel\C#\jeladasautoemelt\obj\Debug\net8.0\jeladasautoemelt.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Antal Péter Dániel\C#\jeladasautoemelt\obj\Debug\net8.0\jeladasautoemelt.dll
+C:\Users\User\Documents\Antal Péter Dániel\C#\jeladasautoemelt\obj\Debug\net8.0\refint\jeladasautoemelt.dll
+C:\Users\User\Documents\Antal Péter Dániel\C#\jeladasautoemelt\obj\Debug\net8.0\jeladasautoemelt.pdb
+C:\Users\User\Documents\Antal Péter Dániel\C#\jeladasautoemelt\obj\Debug\net8.0\jeladasautoemelt.genruntimeconfig.cache
+C:\Users\User\Documents\Antal Péter Dániel\C#\jeladasautoemelt\obj\Debug\net8.0\ref\jeladasautoemelt.dll
